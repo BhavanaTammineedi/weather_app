@@ -33,7 +33,15 @@ A simple weather application built using HTML, CSS, and JavaScript. This app all
 
    ```bash
    git clone https://github.com/your-username/weather-application.git
+   
 2. **Navigate to the project folder**:
    ```bash
    cd weather-application
+
+3. **Open the index.html file in your browser**:
+    ```bash
+    You can do this by double-clicking the index.html file, or
+    Right-click and choose "Open with" your preferred browser.
+    
+4. **The weather application will open in your browser**.
 
