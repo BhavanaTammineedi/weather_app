@@ -33,3 +33,7 @@ A simple weather application built using HTML, CSS, and JavaScript. This app all
 
    ```bash
    git clone https://github.com/your-username/weather-application.git
+2. **Navigate to the project folder**:
+   ```bash
+   cd weather-application
+
