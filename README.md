@@ -43,6 +43,11 @@ To fetch weather data, you'll need to set up an API key from an online platform 
 
 ## Screenshots
 Insert a screenshot of your weather application here (optional).
+![Screenshot (3)](https://github.com/Sravyareddy04/Weather_Forecast_COD6087/assets/162128264/0e3efc75-2b31-4811-9324-7c849c47559c)
+
+![Screenshot (4)](https://github.com/Sravyareddy04/Weather_Forecast_COD6087/assets/162128264/ae2f846d-e14a-47c2-b4b7-e934a30355f6)
+
+![Screenshot (5)](https://github.com/Sravyareddy04/Weather_Forecast_COD6087/assets/162128264/7f7f4ba1-7733-47cb-bf9f-f7ad385ebf0c)
 
 ---
 
